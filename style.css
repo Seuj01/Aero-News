@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family= Unbounded & display = swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@700&display=swap');
+
+*{
+ 
+  margin: 0;
+}
+
+ ul{
+  list-style: none;
+ }
+h1{
+  text-align: center;
+  font-family: 'Libre Baskerville', serif;
+  color: rgb(255, 255, 255);
+  background-color: rgb(255, 0, 0);
+  margin: 0%;
+  padding: 10px;
+  
+}
+
+h2 {
+  font-family: 'Unbounded', cursive;
+  padding: 10px;
+}
+
+iframe{
+  display: block;
+  margin: auto;
+}
+  
+
